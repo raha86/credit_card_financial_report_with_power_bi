@@ -1,0 +1,23 @@
+PROJECT INSIGHTS - WEEK 53 (31ST DECEMBER)
+============================================
+
+Week on Week Change:
+---------------------
+* Revenue increased by 28.8%
+* Total transaction amount increased by 35.04%
+* Transaction count increased by 3.39%
+
+Year to Date:
+--------------
+* Overall revenue is 57M
+  Male contribution 31M & female contribution 26M
+* Total interest earned 7.98M
+* Total transaction amount 46M
+* Total transaction count 667K
+* Blue and Silver cards are contributing to 93% of total revenue
+* TX, NY & CA are contributing to 68% of total revenue
+* 63% of total revenues are from transactions made by swipe 
+* Overall delinquent account 6.06%
+* Overall monthly activation rate is 57.46%
+
+
